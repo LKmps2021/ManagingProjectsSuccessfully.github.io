@@ -97,7 +97,7 @@ Im letzten Schritt muss das Erarbeitete getestet werden. Die Prototypen werden n
 * [Design Thinking - Gabler Wirtschaftslexikon](https://wirtschaftslexikon.gabler.de/definition/design-thinking-54120)
 
 
-# Quellen
+# Quellen 
 
 [^1]:[Einige ausgewählte Zitate zum Thema Design Thinking](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiSt-fh8ab0AhW2hP0HHWnnCxYQFnoECAoQAw&url=https%3A%2F%2Fhpi.de%2Ffileadmin%2Fuser_upload%2Fhpi%2Fdokumente%2Fpressemitteilungen%2F2015%2F20151012_Zitate_DesignThinking_final.pdf&usg=AOvVaw1V7xMxVHaKRkGpU3s36465), Abgerufen am 17. November 2021
 [^2]:[Bild1, Design Thinking Workshop](https://startups-nordwest.de/wp-content/uploads/2018/04/Design-Thinking.jpg), Abgerufen am 17. November 2021
